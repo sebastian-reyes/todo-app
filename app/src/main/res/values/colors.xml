@@ -2,4 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="categoria_personal">#FF5722</color>
+    <color name="categoria_negocios">#4CAF50</color>
+    <color name="categoria_otros">#00BCD4</color>
+    <color name="categoria_estudios">#9C27B0</color>
 </resources>
